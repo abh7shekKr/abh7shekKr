@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate full-stack web and Android developer from India.</h3>
 
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" align="right" alt="default coding image"
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" align="right" alt="default coding image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abh7shekkr&label=Profile%20views&color=0e75b6&style=flat" alt="abh7shekkr" /> </p>
 
